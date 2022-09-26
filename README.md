@@ -1,2 +1,3 @@
-# Segmentation-of-Breast-Ultrasound-Images-and-Tumour-Classification
-Segmentation-of-Breast-Ultrasound-Images-and-Tumour-Classification
+# Breast Tumour Image Segmentation and Classification
+
+
